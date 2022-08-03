@@ -1,8 +1,7 @@
 # Digit-Recognizer-Web-App-w-Tensorflow-Mnsit-Dataset-
 A handwritten digit recognizing web app made with Tensorflow and Flask as APIs
 
-## Live Demo
-Will be available soon ...
+![image](https://user-images.githubusercontent.com/86906691/182604024-bf2b340d-790b-4ca8-a7db-fe1ed6854f99.png)
 
 ## Run on your local machine
 1. Clone this repository
@@ -12,4 +11,4 @@ Will be available soon ...
 
 Note :- You need to have python installed in your local machine in order to run 'api.py'
 
-![image](https://user-images.githubusercontent.com/86906691/182604024-bf2b340d-790b-4ca8-a7db-fe1ed6854f99.png)
+
