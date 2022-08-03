@@ -11,3 +11,5 @@ Will be available soon ...
 4. Open 'index.html' in your web browser and draw any digit from 0-9 and click 'Predict'.
 
 Note :- You need to have python installed in your local machine in order to run 'api.py'
+
+![image](https://user-images.githubusercontent.com/86906691/182604024-bf2b340d-790b-4ca8-a7db-fe1ed6854f99.png)
