@@ -6,7 +6,7 @@ Will be available soon ...
 
 ## Run on your local machine
 1. Clone this repository
-2. Run 'pip install reqirements.py' in your terminal to install the required python pacages.
+2. Run 'pip install reqirements.py' in your terminal to install the required python packages.
 3. Run 'python api.py' to start the server. (Usually takes under a minute)
 4. Open 'index.html' in your web browser and draw any digit from 0-9 and click 'Predict'.
 
